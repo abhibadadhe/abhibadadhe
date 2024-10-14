@@ -16,8 +16,8 @@
 - **IoT**: ESP8266, Arduino
 
 ## 🚀 Featured Projects
-- **IoT Based Panic Button**: [Link to Repo](https://github.com/your_repo)
-- **SBCC Web Project**: [Link to Repo](https://github.com/your_repo)
+- **IoT Based Panic Button**: 
+- **SBCC Web Project**: 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhibadadhe&show_icons=true&theme=radical)
@@ -25,4 +25,4 @@
 
 ## 📫 How to reach me
 - Email: abhibadadhe33@gmail.com
-- LinkedIn: [Abhishek Badhe](https://www.linkedin.com/in/your-profile)
+  
